@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""One Star, Written in Sap — a houseplant's one-star review of its human."""
+"""One Star, Written in Sap — a houseplant's one-star review of its human.
+
+The review line below is the entry: keep it byte-identical, it is also
+written verbatim to /output/entry.txt for the competition harness."""
 
 import os
 
